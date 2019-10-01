@@ -1,0 +1,133 @@
+/* FIRST ITERATION */
+
+body.ado-1 {
+  background: black ;
+  font-family: 'notable', sans-serif ;
+  margin: 10px ;
+  text-align: center;
+}
+body.ado-1 .one {
+  font-family: 'notable';
+  font-size: 100px;
+  font-weight:400;
+  text-decoration: overline;
+  text-align: 20px;
+  padding: ;
+  color: yellow;
+  opacity: 20;
+}
+
+body.ado-1 .two {
+  font-family: 'notable';
+  font-size: 100px;
+  font-weight: ;400
+  text-decoration:overline;
+  text-align: 20px;
+  padding: ;
+  color: yellow;
+  opacity: 20;
+}
+body.ado-1 .three{
+  font-family: 'notable';
+  font-size: 100px;
+  font-weight: 400;
+  text-decoration: overline;
+  text-align: 20px;
+  padding: ;
+  color: yellow;
+  opacity: 20;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.ado-2 {
+  font-family: 'Orbitron';
+  font-size: 100px;
+  font-weight: 50;
+  text-decoration: line-through;
+  text-align: 20;
+  padding: ;
+  color: #FB8B05;
+  opacity: 20;
+  background-color: darkred; 
+}
+body.ado-2 .one {
+  font-family:'orbitron' ;
+  font-size: 100px;
+  font-weight: 50;
+  text-decoration: line-through;
+  text-align: 20;
+  padding: ;
+  color: #FB8B05;
+  opacity: 20;
+}
+body.ado-2 .two {
+  font-family: 'Orbitron';
+  font-size: 100px;
+  font-weight: 50;
+  text-decoration: line-through;
+  text-align: 20;
+  padding: ;
+  color: #FB8B05;
+  opacity: 20;
+}
+body.ado-2 .three{
+  font-family: 'orbitron';
+  font-size: 100px;
+  font-weight: 50;
+  text-decoration: line-through;
+  text-align: 20;
+  padding: ;
+  color: #FB8B05;
+  opacity: 20;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.ado-3 {
+  font-family: 'Ultra';
+  font-size: 150px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.ado-3 .one {
+  font-family: 'ultra';
+  font-size: 150px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.ado-3 .two {
+  font-family: 'ultra';
+  font-size: 150px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.ado-3 .three{
+  font-family: 'ultra';
+  font-size: 150px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
